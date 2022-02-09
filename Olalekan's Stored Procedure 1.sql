@@ -1,3 +1,6 @@
+/*Inside your stored procedure, write a SQL IF statement to update the Leaders_Icon field in the CHICAGO_PUBLIC_SCHOOLS table for the school identified 
+by in_School_ID using the following information.*/
+
 delimiter @
 CREATE PROCEDURE UPDATE_LEADERS_SCORE ( IN in_School_ID INTEGER, IN in_Leader_Score INTEGER ) 
 

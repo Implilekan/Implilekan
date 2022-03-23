@@ -1,0 +1,17 @@
+-- This procedure retrieves the height and weights of players from the player_info table when called
+
+delimiter @
+CREATE PROCEDURE get_player_info ( IN player VARCHAR(100) ) 
+
+LANGUAGE SQL 
+READS SQL DATA  
+
+BEGIN
+
+	SELECT playerName, Ht, Wt
+    FROM player_info
+    WHERE FIND_IN_SET(playerName, player);
+    
+END
+@
+

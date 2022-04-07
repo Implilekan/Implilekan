@@ -1,3 +1,5 @@
+-- Dataset for this analysis can be downloaded from <https://ourworldindata.org>
+
 -- Checking the increasing rate of total deaths to toal covid cases reported
 
 SELECT location, date, total_cases, total_deaths, convert(DECIMAL(10,2),(total_deaths/total_cases) * 100) AS 'death(%)'

@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Implilekan
 - 👀 I’m interested in ... Data Science
-- 🌱 I’m currently learning ... SQL and Python
+- 🌱 I’m currently learning ... MySQL, MS SQL Server, Power BI and Python
 - 💞️ I’m looking to collaborate on ... Data Science projects
 - 📫 How to reach me ... implilekan@gmail.com
 

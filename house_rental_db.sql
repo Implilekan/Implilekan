@@ -90,4 +90,6 @@ CALL rental_details_today('ok');
 /* Thank you for coming with me on this journey
 I hope you had as much fun as I did while working on this, learning is fun and continuous
 
+This model can be downloaded from my repo in the master branch 'rental_db model.mwb'
+
 You can find help on google and stack overflow if you find some of the queries difficult to comprehend, they are 'Beginner Queries' though */

@@ -16,7 +16,7 @@ Welcome to my simple house rental database design script, I hope you find it hel
 
 -- Once all tables have been imported sucessfully, inspect them to be sure they were correctly/completely imported
 
-SELECT * FROM tenants;
+SELECT * FROM tenants;  -- Or SELECT COUNT(*) FROM 'table_name' if the imported data is quite large
 SELECT * FROM buildings;
 SELECT * FROM apartments;
 SELECT * FROM owners;

@@ -1,8 +1,8 @@
 # OLALEKAN OLUJOBI
 
-- 👋 **I am a certified Data Scientist and Analyst from IBM and Google, currently transitioning from a career in banking and finance and seeking a full-time role in the field of Data Science and Analytics.**
-- 👀 I am interested in Data Science and Data Analytics Jobs
-- 🌱 I am currently learning SQL, Python, R, Power BI and Tableau
+- 👋 **I am a Data Analyst, having being certified by IBM and Google and currently seeking further career growth in the field of Data Science and Analytics.**
+- 👀 I am interested in Data Science and Data Analytics remote roles.
+- 🌱 I am continuously learning SQL, Python, R, Power BI and Tableau
 - 💞️ I am looking to collaborate on Data Science or Analytics projects
 - 📫 I can be reached via <implilekan@gmail.com>
 
